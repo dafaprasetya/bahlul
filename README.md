@@ -30,6 +30,10 @@
 6. **Buka Browser**
    - Buka browser dan akses [http://localhost:8000](http://localhost:8000)
 
+## Informasi Login
+- **Username:** bahlul@gmail.com
+- **Password:** 12345678
+
 ## Catatan
 - Pastikan PHP versi 7 ke atas sudah terinstal.
 - Jika Anda belum memiliki Composer, download di [Composer Download](https://getcomposer.org/download/).
